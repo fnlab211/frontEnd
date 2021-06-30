@@ -1,0 +1,6 @@
+h1, h2{ text-align: center; padding-top: 20px;}
+input{width: 200px;}
+.countBox{width: 200px; margin: auto;}
+.countPrint{width: 100px; height: 80px; float: left;
+    text-align: center; line-height: 80px; font-size: 24px;}
+.countBtn{width: 100px;}
