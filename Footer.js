@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
     return (
         <div>
-            <h2>fnlab211@github.com</h2>
+            <h2>https://github.com/fnlab211/frontEnd</h2>
         </div>
     );
 };
